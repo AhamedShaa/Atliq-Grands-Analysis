@@ -6,9 +6,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 As a 3rd party Data Analyst at AtliQ Grands, I am responsible for Providing Insights to the revenue team in the Hospitality Domain of AtliQ Grands. To achieve that, I performed in below tasks:
 
-  Data Modeling
-  Creating Measures
-  Building Interactive Reports in Power BI
+  -Data Modeling
+  -Creating Measures
+  -Building Interactive Reports in Power BI
 
 ## Acknowledgements
 <a href="https://codebasics.io/challenge/codebasics-resume-project-challenge" target="_blank">Codebasics</a>
@@ -17,5 +17,5 @@ As a 3rd party Data Analyst at AtliQ Grands, I am responsible for Providing Insi
 This Hospitality domain project is a resume based project challenge (Challenge #1) organised by Codebasics. All the required documentation and dataset are provided by Codebasics in the resume project challenge portal [https://codebasics.io/challenge/codebasics-resume-project-challenge]. You can also find these details within Source directory in this github repository.
 
 ## Screenshot
-https://github.com/AhamedShaa/Atliq-Grands-Analysis/blob/main/Screenshot.png
+[https://github.com/AhamedShaa/Atliq-Grands-Analysis/blob/main/Screenshot.png]
 
