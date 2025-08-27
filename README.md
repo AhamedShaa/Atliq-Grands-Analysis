@@ -14,7 +14,7 @@ As a 3rd party Data Analyst at AtliQ Grands, I am responsible for Providing Insi
 - <a href="https://codebasics.io/challenge/codebasics-resume-project-challenge" target="_blank">Codebasics</a>
 
 ## Appendix
-This Hospitality domain project is a resume based project challenge (Challenge #1) organised by Codebasics. All the required documentation and dataset are provided by Codebasics in the resume project challenge portal [https://codebasics.io/challenge/codebasics-resume-project-challenge]. You can also find these details within Source directory in this github repository.
+This Hospitality domain project is a resume based project challenge (Challenge #1) organised by Codebasics. All the required documentation and dataset are provided by Codebasics in the resume project challenge portal [https://codebasics.io/challenge/codebasics-resume-project-challenge]. You can also find these details within ![Source](https://github.com/AhamedShaa/Atliq-Grands-Analysis/tree/main/Source) directory in this github repository.
 
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/AhamedShaa/Atliq-Grands-Analysis/main/Screenshot.png)
