@@ -17,5 +17,13 @@ As a 3rd party Data Analyst at AtliQ Grands, I am responsible for Providing Insi
 This Hospitality domain project is a resume based project challenge (Challenge #1) organised by Codebasics. All the required documentation and dataset are provided by Codebasics in the resume project challenge portal [https://codebasics.io/challenge/codebasics-resume-project-challenge]. You can also find these details within Source directory in this github repository.
 
 ## Screenshot
-!(https://github.com/AhamedShaa/Atliq-Grands-Analysis/blob/main/Screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/AhamedShaa/Atliq-Grands-Analysis/main/Screenshot.png)
+
+## Some Important insights from the Dashboard
+- Mumbai generates the highest revenue (669 M) followed by Bangalore, Hyderabad and Delhi
+- AtliQ Exotica performs better compared to all 7 type of properties with 320 Million revenue, rating 3.62, occupancy percentage 57 and cancellation rate as 24.4%.
+- AtliQ Bay has the highest occupancy of 66%
+- Week 24 recorded the highest revenue among all, which is 139.6 Million
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+
 
